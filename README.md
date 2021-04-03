@@ -69,5 +69,5 @@ python3
 
 import cv2
 
-cv2.__version__
+# cv2.__version__
 
